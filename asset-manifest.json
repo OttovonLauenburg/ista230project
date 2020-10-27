@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ista230project/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/ista230project/static/js/main.25fde2c9.chunk.js",
+    "main.js.map": "/ista230project/static/js/main.25fde2c9.chunk.js.map",
+    "runtime-main.js": "/ista230project/static/js/runtime-main.c9a2d0cf.js",
+    "runtime-main.js.map": "/ista230project/static/js/runtime-main.c9a2d0cf.js.map",
+    "static/js/2.75861549.chunk.js": "/ista230project/static/js/2.75861549.chunk.js",
+    "static/js/2.75861549.chunk.js.map": "/ista230project/static/js/2.75861549.chunk.js.map",
+    "static/js/3.fda8a5be.chunk.js": "/ista230project/static/js/3.fda8a5be.chunk.js",
+    "static/js/3.fda8a5be.chunk.js.map": "/ista230project/static/js/3.fda8a5be.chunk.js.map",
+    "index.html": "/ista230project/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/ista230project/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.75861549.chunk.js.LICENSE.txt": "/ista230project/static/js/2.75861549.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/ista230project/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9a2d0cf.js",
+    "static/js/2.75861549.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.25fde2c9.chunk.js"
+  ]
+}
